@@ -62,15 +62,11 @@ The clusters were analyzed to understand the characteristics of each customer se
 | 0              | 15305.260277 | 1315.236141   | 3.635189       | 768.466291    | 0.208598       | 1.072821   |
 | 1              | 15787.333333 | 17127.428333  | 29.666667      | 9773.500000   | 3.000000       | 3.000000   |
 
-## Interactive Dashboard
-
-An interactive dashboard was created using Streamlit to visualize and interact with the data and clustering results.
 
 ## How to Run
 
 1. Clone the repository.
 2. Install the required packages using `pip install -r requirements.txt`.
-3. Run the Streamlit app using `streamlit run app.py`.
 
 ## Conclusion
 
