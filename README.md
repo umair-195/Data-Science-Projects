@@ -5,7 +5,7 @@ This repository contains a collection of data science projects that cover variou
 
 ## Projects
 
-### 1. [Customer Segmentation](1.Customer Segmentation)
+### 1. [Customer Segmentation](1.%20Customer%20Segmentation)
 **Description:** Segment customers based on purchasing behavior using clustering techniques.
 .
 
